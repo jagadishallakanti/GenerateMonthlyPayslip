@@ -1,7 +1,7 @@
 package com.codingtest.unittests.tax;
 
 import com.codingtest.exception.TaxCalculatorException;
-import com.codingtest.exception.entity.TaxSlab;
+import com.codingtest.entity.TaxSlab;
 import com.codingtest.repository.TaxRepository;
 import org.junit.jupiter.api.Test;
 import org.mockito.Mockito;

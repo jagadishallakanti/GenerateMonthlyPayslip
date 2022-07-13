@@ -1,4 +1,4 @@
-package com.codingtest.exception.entity;
+package com.codingtest.entity;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

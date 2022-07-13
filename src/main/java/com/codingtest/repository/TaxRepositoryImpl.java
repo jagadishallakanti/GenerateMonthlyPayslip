@@ -1,6 +1,6 @@
 package com.codingtest.repository;
 
-import com.codingtest.exception.entity.TaxSlab;
+import com.codingtest.entity.TaxSlab;
 
 import java.math.BigDecimal;
 import java.util.ArrayList;

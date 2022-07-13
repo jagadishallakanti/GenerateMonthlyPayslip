@@ -3,7 +3,7 @@ package com.codingtest.unittests;
 import com.codingtest.exception.TaxCalculatorException;
 import com.codingtest.unittests.tax.TaxCalculatorService;
 import com.codingtest.exception.SalarySlipGeneratorException;
-import com.codingtest.exception.entity.MonthlySalarySlip;
+import com.codingtest.entity.MonthlySalarySlip;
 import lombok.AllArgsConstructor;
 
 import java.math.BigDecimal;

@@ -2,7 +2,7 @@ package com.codingtest.e2e;
 
 import com.codingtest.exception.SalarySlipGeneratorException;
 import com.codingtest.exception.TaxCalculatorException;
-import com.codingtest.exception.entity.MonthlySalarySlip;
+import com.codingtest.entity.MonthlySalarySlip;
 import com.codingtest.repository.TaxRepository;
 import com.codingtest.repository.TaxRepositoryImpl;
 import com.codingtest.unittests.SalarySlipGeneratorService;
