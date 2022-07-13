@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.codingtest.e2e.SalarySlipGeneratorServiceTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-07-13T01:28:38" hostname="DESKTOP-ON90J18" time="0.04">
+  <properties/>
+  <testcase name="GenerateSalarySlipForZeroTaxBracket()" classname="com.codingtest.e2e.SalarySlipGeneratorServiceTest" time="0.031"/>
+  <testcase name="ShouldThrowExceptionWhenInvalidInputIsProvided()" classname="com.codingtest.e2e.SalarySlipGeneratorServiceTest" time="0.006"/>
+  <testcase name="GenerateSalarySlipForHighestTaxBracket()" classname="com.codingtest.e2e.SalarySlipGeneratorServiceTest" time="0.001"/>
+  <system-out><![CDATA[Invalid value provided for salary. Plz provide only numeric value for salary
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

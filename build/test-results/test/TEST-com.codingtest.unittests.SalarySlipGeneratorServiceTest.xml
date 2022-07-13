@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.codingtest.unittests.SalarySlipGeneratorServiceTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2022-07-13T01:28:39" hostname="DESKTOP-ON90J18" time="0.032">
+  <properties/>
+  <testcase name="whenGenerateSalarySlip_TaxCalculatorExceptionOccurs_RethrowThatException()" classname="com.codingtest.unittests.SalarySlipGeneratorServiceTest" time="0.017"/>
+  <testcase name="whenGenerateSalarySlip_CalledWithInvalidInput_ThrowsException()" classname="com.codingtest.unittests.SalarySlipGeneratorServiceTest" time="0.002"/>
+  <testcase name="whenGenerateSalarySlip_calledWithValidInput_returnMonthlySalarySlip()" classname="com.codingtest.unittests.SalarySlipGeneratorServiceTest" time="0.008"/>
+  <testcase name="whenGenerateSalarySlip_CalledWithNegativeSalary_ThrowsException()" classname="com.codingtest.unittests.SalarySlipGeneratorServiceTest" time="0.002"/>
+  <system-out><![CDATA[Invalid value provided for salary. Plz provide only numeric value for salary
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
